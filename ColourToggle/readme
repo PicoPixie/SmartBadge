@@ -1,0 +1,20 @@
+Lanyard-friendly conference/gathering badge. 
+Uses traffic-light colour indicator.
+
+On power-up displays BLUE, ALL_ON
+Use switches on badge (back)
+SWITCH 1 : cycle colour BLUE -> RED -> YELLOW -> GREEN
+SWITCH 2 : cycle pattern ALL_ON -> SPIRAL_IN -> RADIATE_OUT -> CONVERGE_IN
+SWITCH 3 :
+SWITCH 4 :
+
+suggested use:
+	BLUE 	: 	New to the scene, don't know anyone here;
+			Talk To Me Please!
+	GREEN 	: 	OK to include me in photos/videos 
+			that may be shared online
+	YELLOW 	: 	please ask me first
+	RED 	:	do not include me in any photo/videography; 
+			Seriously, I'm not even supposed to be here!
+
+Firmware for @4tronix_uk SmartBadge v0.2 (ATMega328, chain of 19 ws2812 RGB LED)
